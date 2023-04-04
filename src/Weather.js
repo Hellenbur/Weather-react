@@ -84,6 +84,17 @@ export default function Weather(props) {
           </table>
         </div>
       </div>
+      <h5>
+        Was coded by <a href="mailto:elen.burma@gmail.com">Olena Burma</a> and
+        is
+        <a href="https://github.com/Hellenbur/weather-react" target="_blank">
+          open-sourced on GitHub
+        </a>
+        and
+        <a href="https://neon-cajeta-4c91b3.netlify.app" target="_blank">
+          hosted on Netlify
+        </a>
+      </h5>
     </div>
   );
 }

@@ -21,6 +21,11 @@ h4 {
   font-weight: 700;
   color: #4b3939;
 }
+h5 {
+  color: blue;
+  font-weight: 400;
+}
+
 img {
   width: 50px;
   margin: 0 auto;
